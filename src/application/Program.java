@@ -11,6 +11,8 @@ public class Program {
 		String nome = sc.nextLine();
 		
 		System.out.println("Seu nome é " + nome);
+		System.out.println("Nada nao");
+		System.out.println("Nada nao");
 		sc.close();
 
 	}
